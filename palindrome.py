@@ -1,3 +1,5 @@
+print("PALINDROME CHECKER")
+
 word = input("Enter A Word: ")
 
 reversed_word = ""
